@@ -1,6 +1,6 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/horizon/compare/v3.2.6...3.0)
+## [Unreleased](https://github.com/laravel/horizon/compare/v3.2.6...master)
 
 
 ## [v3.2.6 (2019-07-11)](https://github.com/laravel/horizon/compare/v3.2.5...v3.2.6)
